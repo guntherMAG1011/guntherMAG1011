@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Interested in Math and Machine Learning
+### Interested in Maths, Computer Graphics and Machine Learning.
 
 <!--
 **guntherMAG1011/guntherMAG1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
